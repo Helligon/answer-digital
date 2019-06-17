@@ -1,6 +1,7 @@
 package Answer.Digital;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.Objects;
 
 public class Sku {
@@ -16,7 +17,7 @@ public class Sku {
 
     public static Sku lineParser(String inputText) {
         String[] skuParts = inputText.split("\t");
-        return new Sku(skuParts[0], skuParts[1], new BigDecimal(skuParts[2]));
+        return new Sku(skuParts[0], skuParts[1], new BigDecimal(skuParts[2]).setScale(2, RoundingMode.HALF_UP));
     }
 
     @Override
