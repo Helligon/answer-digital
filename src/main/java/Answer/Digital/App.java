@@ -4,11 +4,10 @@
 package Answer.Digital;
 
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
+
+    private final Store store = new Store();
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(Sku.lineParser("H57\tTin o Beans\t1.23"));
     }
 }
