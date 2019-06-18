@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af729d05-5f03-4d3b-978a-36191ba1e5dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sku-list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/empty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/sku-list-happy-test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Answer/Digital/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Answer/Digital/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Sku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Sku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Answer/Digital/SkuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Answer/Digital/SkuTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -29,21 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -51,39 +47,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="110" selection-start-line="19" selection-start-column="110" selection-end-line="19" selection-end-column="110" />
+            <state relative-caret-position="182">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="e#1842#1843#0" expanded="true" />
-                <element signature="e#1886#1887#0" expanded="true" />
-                <element signature="e#1988#1989#0" expanded="true" />
-                <element signature="e#2036#2037#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#1842#1843#0" expanded="true" />
+                <element signature="e#1886#1887#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,10 +101,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sku-list.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" />
       </list>
     </option>
   </component>
@@ -125,6 +121,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +159,13 @@
               <item name="Answer-Digital" type="b2602c69:ProjectViewProjectNode" />
               <item name="Answer-Digital" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer-Digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer-Digital" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -179,11 +183,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Digital" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Answer-Digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer-Digital" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,6 +208,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
@@ -221,6 +232,19 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.Answer.Digital in Answer-Digital.test">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answer.Digital.App" />
+      <module name="Answer-Digital.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer.Digital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Answer.Digital in Answer-Digital.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Answer-Digital.test" />
       <extension name="coverage">
@@ -267,22 +291,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkuTest.lineParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Answer-Digital.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Answer.Digital.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Answer.Digital" />
-      <option name="MAIN_CLASS_NAME" value="Answer.Digital.SkuTest" />
-      <option name="METHOD_NAME" value="lineParser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SkuTest.parsesLineCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Answer-Digital.test" />
       <extension name="coverage">
@@ -302,10 +310,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Answer.Digital in Answer-Digital.test" />
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.SkuTest.incompleteInput" />
         <item itemvalue="JUnit.SkuTest.invalidPriceForBigDecimal" />
         <item itemvalue="JUnit.SkuTest.parsesLineCorrectly" />
-        <item itemvalue="JUnit.SkuTest.lineParser" />
       </list>
     </recent_temporary>
   </component>
@@ -321,20 +329,12 @@
       <updated>1559862012680</updated>
       <workItem from="1559862077894" duration="224000" />
       <workItem from="1559901931837" duration="6558000" />
-      <workItem from="1560802757676" duration="8590000" />
+      <workItem from="1560802757676" duration="8910000" />
+      <workItem from="1560858947181" duration="9234000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SkuTest_lineParserParsesLineCorrectly - 2019.06.17 at 23h 11m 34s.xml">
-      <configuration name="SkuTest.lineParserParsesLineCorrectly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SkuTest_lineParserParsesLineCorrectly - 2019.06.17 at 23h 11m 47s.xml">
-      <configuration name="SkuTest.lineParserParsesLineCorrectly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Answer_Digital_in_Answer-Digital_test - 2019.06.17 at 23h 16m 22s.xml">
-      <configuration name="Answer.Digital in Answer-Digital.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SkuTest_lineParserParsesLineCorrectly - 2019.06.17 at 23h 22m 18s.xml">
       <configuration name="SkuTest.lineParserParsesLineCorrectly" configurationId="JUnit" />
     </history-entry>
@@ -356,9 +356,18 @@
     <history-entry file="Answer_Digital_in_Answer-Digital_test - 2019.06.17 at 23h 36m 19s.xml">
       <configuration name="Answer.Digital in Answer-Digital.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Answer_Digital_in_Answer-Digital_test - 2019.06.18 at 22h 04m 54s.xml">
+      <configuration name="Answer.Digital in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Answer_Digital_in_Answer-Digital_test - 2019.06.18 at 22h 05m 02s.xml">
+      <configuration name="Answer.Digital in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Answer_Digital_in_Answer-Digital_test - 2019.06.18 at 22h 05m 30s.xml">
+      <configuration name="Answer.Digital in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15372000" />
+    <option name="totallyTimeSpent" value="24926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,9 +380,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24792139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25170067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,13 +390,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21324503" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28344372" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24635762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
       <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.30596027" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20132451" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30331126" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -409,16 +417,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="jrt://C:/Program Files/Java/jdk-11.0.1!/java.base/java/util/List.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -445,27 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jrt://C:/Program Files/Java/jdk-11.0.1!/java.base/java/math/BigDecimal.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6256">
@@ -477,27 +469,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="110" selection-start-line="19" selection-start-column="110" selection-end-line="19" selection-end-column="110" />
+        <state relative-caret-position="151">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1886#1887#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="119">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sku-list.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#1842#1843#0" expanded="true" />
-            <element signature="e#1886#1887#0" expanded="true" />
-            <element signature="e#1988#1989#0" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sku-list-happy-test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/empty.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -3,11 +3,17 @@
  */
 package Answer.Digital;
 
+import java.io.IOException;
+
 public class App {
 
-    private final Store store = new Store();
+    private static Store store = new Store();
 
-    public static void main(String[] args) {
-        System.out.println(Sku.lineParser("H57\tTin o Beans\t1.23"));
+    public static void main(String[] args) throws IOException {
+        System.out.println(Sku.lineParse("H57\tTin o Beans\t1.23"));
+
+        store.fileParse("C:\\Users\\alexr\\OneDrive\\Documents\\Project\\Answer-Digital\\src\\main\\resources\\sku-list.txt");
+
+        System.out.println(store.getSkuList());
     }
 }

@@ -54,18 +54,18 @@ public class SkuTest {
         Sku sku1 = new Sku("H67",
                 "beans", new BigDecimal(0.55).setScale(2, RoundingMode.HALF_UP));
 
-        Sku sku2 = Sku.lineParser("H67\tbeans\t0.55");
+        Sku sku2 = Sku.lineParse("H67\tbeans\t0.55");
 
         assertEquals(sku1, sku2);
     }
 
     @Test (expected = IndexOutOfBoundsException.class)
     public void incompleteInput() {
-        Sku.lineParser("H67\tbeans");
+        Sku.lineParse("H67\tbeans");
     }
 
     @Test (expected = NumberFormatException.class)
     public void invalidPriceForBigDecimal() {
-        Sku.lineParser("H67\tbeans\t55p");
+        Sku.lineParse("H67\tbeans\t55p");
     }
 }
