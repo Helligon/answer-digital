@@ -7,13 +7,22 @@ import java.io.IOException;
 
 public class App {
 
-    private static Store store = new Store();
-
     public static void main(String[] args) throws IOException {
+        Store store = new Store();
+
         System.out.println(Sku.lineParse("H57\tTin o Beans\t1.23"));
 
-        store.fileParse("C:\\Users\\alexr\\OneDrive\\Documents\\Project\\Answer-Digital\\src\\main\\resources\\sku-list.txt");
+        store.fileParse("sku-list.txt");
 
         System.out.println(store.getSkuList());
+
+        Till till = store.createTill();
+
+        till.scanItem("C330");
+        till.scanItem("C330");
+        till.scanItem("H57");
+        till.scanItem("BR7");
+
+        System.out.println("\nRECEIPT:\n" + till.getReceipt());
     }
 }
