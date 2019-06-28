@@ -46,7 +46,7 @@ public class SkuTest {
         Sku sku = new Sku("H67",
                 "beans", new BigDecimal(0.55).setScale(2, RoundingMode.HALF_UP));
 
-        assertEquals(sku.toString(), "Sku{productCode='H67', description='beans', price=0.55}");
+        assertEquals(sku.toString(), "\nSku{productCode='H67', description='beans', price=0.55}");
     }
 
     @Test

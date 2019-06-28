@@ -48,5 +48,7 @@ public class Sku {
     String getProductCode() {
         return productCode;
     }
-
+    BigDecimal getPrice() {
+        return price;
+    }
 }

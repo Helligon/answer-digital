@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 public class StoreTest {
 
-    private static Store store = new Store();
+    private Store store = new Store();
 
     @Test
     public void fileParseWorksWithACorrectTestFile() throws IOException {

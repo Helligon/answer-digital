@@ -18,11 +18,11 @@ public class Store {
         File file = new File(
                 Objects.requireNonNull(getClass().getClassLoader().getResource(filename)).getFile()
         );
-        List<String> list = Files.readAllLines(Paths.get(file.getPath()), StandardCharsets.UTF_8);
-        list.remove(0);
+        List<String> listOfLines = Files.readAllLines(Paths.get(file.getPath()), StandardCharsets.UTF_8);
+        listOfLines.remove(0);
 
-        for (int i = 0; i <= (list.size() - 1); i++) {
-            skuList.add(lineParse(list.get(i)));
+        for (String line : listOfLines) {
+            skuList.add(lineParse(line));
         }
     }
 

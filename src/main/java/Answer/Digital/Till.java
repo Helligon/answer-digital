@@ -12,7 +12,12 @@ public class Till {
     }
 
     void scanItem(String productCode) {
-        basket.add(store.findItem(productCode));
+        Sku item = store.findItem(productCode);
+        if (item != null) {
+            basket.add(item);
+        }else {
+            System.out.println("Item not found.");
+        }
     }
 
     public List<Sku> getReceipt() {
