@@ -32,3 +32,10 @@ application {
     // Define the main class for the application
     mainClassName = "Answer.Digital.App"
 }
+
+//val run by tasks.getting(JavaExec::class) {
+//    standardInput = System.`in`
+//}
+
+val run: JavaExec by tasks
+run.standardInput = System.`in`

@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af729d05-5f03-4d3b-978a-36191ba1e5dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Answer/Digital/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Answer/Digital/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Till.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Answer/Digital/Till.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/Answer/Digital/StoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Answer/Digital/StoreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Answer/Digital/Till.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Answer/Digital/Till.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Answer/Digital/TillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Answer/Digital/TillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -36,14 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+            <state relative-caret-position="233">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -56,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="782">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="54" column="80" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="80" />
+            <state relative-caret-position="299">
+              <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -77,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="493">
               <caret line="37" column="104" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="104" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -101,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Till.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="323">
               <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/TillTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="459">
               <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
             </state>
           </provider>
@@ -138,7 +139,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/sku-list.txt" />
         <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Till.java" />
@@ -146,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java" />
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java" />
         <option value="$PROJECT_DIR$/src/main/java/Answer/Digital/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
       </list>
     </option>
   </component>
@@ -160,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,8 +236,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Answer-Digital.test">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Answer.Digital.App" />
       <module name="Answer-Digital.main" />
@@ -341,8 +343,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in Answer-Digital.test" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in Answer-Digital.test" />
         <item itemvalue="JUnit.StoreTest" />
         <item itemvalue="JUnit.TillTest.getReceiptForNewTillHasEmptyBasket" />
         <item itemvalue="JUnit.TillTest" />
@@ -366,20 +368,12 @@
       <workItem from="1560957153549" duration="4699000" />
       <workItem from="1561121169659" duration="7677000" />
       <workItem from="1561198434059" duration="6395000" />
-      <workItem from="1561750328887" duration="2258000" />
+      <workItem from="1561750328887" duration="2488000" />
+      <workItem from="1561754971221" duration="1480000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StoreTest_findItemReturnsNullIfItemNotFound - 2019.06.22 at 11h 37m 03s.xml">
-      <configuration name="StoreTest.findItemReturnsNullIfItemNotFound" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StoreTest - 2019.06.22 at 11h 37m 06s.xml">
-      <configuration name="StoreTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StoreTest - 2019.06.22 at 11h 38m 03s.xml">
-      <configuration name="StoreTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TillTest_scanItemForUnknownItem - 2019.06.22 at 12h 10m 21s.xml">
       <configuration name="TillTest.scanItemForUnknownItem" configurationId="JUnit" />
     </history-entry>
@@ -401,9 +395,18 @@
     <history-entry file="StoreTest - 2019.06.28 at 21h 17m 50s.xml">
       <configuration name="StoreTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Answer-Digital_test - 2019.06.28 at 21h 25m 57s.xml">
+      <configuration name="All in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Answer-Digital_test - 2019.06.28 at 21h 26m 46s.xml">
+      <configuration name="All in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Answer-Digital_test - 2019.06.28 at 21h 52m 25s.xml">
+      <configuration name="All in Answer-Digital.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46113000" />
+    <option name="totallyTimeSpent" value="47823000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,9 +419,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20332578" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20634921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -427,13 +429,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18013245" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33509934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24635762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.30596027" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30331126" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.30596027" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30331126" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -526,9 +528,39 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/sku-list.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="104" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Till.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="323">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -538,57 +570,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/TillTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="459">
           <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/Sku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/StoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="104" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="104" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Answer/Digital/SkuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="54" column="80" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="80" />
+        <state relative-caret-position="299">
+          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Answer/Digital/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        <state relative-caret-position="233">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
         </state>
       </provider>
     </entry>
